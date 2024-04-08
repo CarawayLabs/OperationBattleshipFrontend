@@ -17,10 +17,10 @@ async def read_root(request: Request):
 async def upload_resume_page(request: Request):
     return templates.TemplateResponse("upload.html", {"request": request})
 
-@app.get("/serve_recommendations", response_class=HTMLResponse)
+@app.get("/recommendations", response_class=HTMLResponse)
 async def view_recommendations(request: Request):
     # You would typically fetch recommendations from the database here
-    return templates.TemplateResponse("serve_recommendations.html", {"request": request})
+    return templates.TemplateResponse("recommendations.html", {"request": request})
 
 @app.get("/contact", response_class=HTMLResponse)
 async def contact_us(request: Request):
