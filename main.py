@@ -9,9 +9,6 @@ app = FastAPI()
 # Tell FastAPI where to find the templates
 templates = Jinja2Templates(directory="templates")
 
-# If you have static files (CSS, JS, etc.), serve them from a static folder
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
