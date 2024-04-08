@@ -1,0 +1,754 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 684B-C9F9
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend
+
+04/07/2024  08:23 PM    <DIR>          .
+04/06/2024  08:34 PM    <DIR>          ..
+04/06/2024  08:35 PM    <DIR>          .do
+04/06/2024  12:48 AM    <DIR>          .git
+04/06/2024  08:35 PM    <DIR>          .github
+04/07/2024  08:23 PM    <DIR>          templates
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.do
+
+04/06/2024  08:35 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git
+
+04/06/2024  12:48 AM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          hooks
+04/06/2024  12:43 AM    <DIR>          info
+04/06/2024  12:43 AM    <DIR>          logs
+04/06/2024  10:06 AM    <DIR>          objects
+04/06/2024  12:43 AM    <DIR>          refs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\hooks
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:48 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\info
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:48 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\logs
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:48 AM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          refs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\logs\refs
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          heads
+04/06/2024  12:43 AM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\logs\refs\heads
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\logs\refs\remotes
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\logs\refs\remotes\origin
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\objects
+
+04/06/2024  10:06 AM    <DIR>          .
+04/06/2024  12:48 AM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          info
+04/06/2024  12:43 AM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\objects\info
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  10:06 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\objects\pack
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  10:06 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\refs
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:48 AM    <DIR>          ..
+04/06/2024  12:43 AM    <DIR>          heads
+04/06/2024  12:43 AM    <DIR>          remotes
+04/06/2024  12:43 AM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\refs\heads
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\refs\remotes
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+04/06/2024  10:06 AM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\refs\remotes\origin
+
+04/06/2024  10:06 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.git\refs\tags
+
+04/06/2024  12:43 AM    <DIR>          .
+04/06/2024  12:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\.github
+
+04/06/2024  08:35 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          assets
+04/07/2024  08:23 PM    <DIR>          php
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          css
+04/07/2024  08:23 PM    <DIR>          images
+04/07/2024  08:23 PM    <DIR>          js
+04/07/2024  08:23 PM    <DIR>          lib
+04/06/2024  03:20 PM    <DIR>          scss
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          colors
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\css\colors
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          agency
+04/07/2024  08:23 PM    <DIR>          favicons
+04/07/2024  08:23 PM    <DIR>          finance
+04/07/2024  08:23 PM    <DIR>          gallery
+04/07/2024  08:23 PM    <DIR>          landing
+04/07/2024  08:23 PM    <DIR>          photography
+04/07/2024  08:23 PM    <DIR>          portfolio
+04/07/2024  08:23 PM    <DIR>          restaurant
+04/07/2024  08:23 PM    <DIR>          screenshots
+04/07/2024  08:23 PM    <DIR>          shop
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\agency
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\favicons
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\finance
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          big
+04/07/2024  08:23 PM    <DIR>          thumbnail
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\big
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          full_1
+04/07/2024  08:23 PM    <DIR>          full_2
+04/07/2024  08:23 PM    <DIR>          full_3
+04/07/2024  08:23 PM    <DIR>          full_4
+04/07/2024  08:23 PM    <DIR>          full_5
+04/07/2024  08:23 PM    <DIR>          full_6
+04/07/2024  08:23 PM    <DIR>          full_7
+04/07/2024  08:23 PM    <DIR>          full_8
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_1
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_2
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_3
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_4
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_5
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_6
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_7
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\gallery\thumbnail\full_8
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\landing
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\photography
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\portfolio
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\restaurant
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\screenshots
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\images\shop
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\js
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          animate.css
+04/07/2024  08:23 PM    <DIR>          bootstrap
+04/07/2024  08:23 PM    <DIR>          components-font-awesome
+04/07/2024  08:23 PM    <DIR>          et-line-font
+04/07/2024  08:23 PM    <DIR>          flexslider
+04/07/2024  08:23 PM    <DIR>          imagesloaded
+04/07/2024  08:23 PM    <DIR>          isotope
+04/07/2024  08:23 PM    <DIR>          jquery
+04/07/2024  08:23 PM    <DIR>          jquery.mb.ytplayer
+04/07/2024  08:23 PM    <DIR>          magnific-popup
+04/07/2024  08:23 PM    <DIR>          owl.carousel
+04/07/2024  08:23 PM    <DIR>          simple-text-rotator
+04/07/2024  08:23 PM    <DIR>          wow
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\animate.css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\bootstrap
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\bootstrap\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          css
+04/07/2024  08:23 PM    <DIR>          fonts
+04/07/2024  08:23 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\bootstrap\dist\css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\bootstrap\dist\fonts
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\bootstrap\dist\js
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\components-font-awesome
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          css
+04/07/2024  08:23 PM    <DIR>          fonts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\components-font-awesome\css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\components-font-awesome\fonts
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\et-line-font
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          fonts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\et-line-font\fonts
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\flexslider
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          fonts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\flexslider\fonts
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\imagesloaded
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\isotope
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\isotope\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\jquery
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\jquery\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\jquery.mb.ytplayer
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\jquery.mb.ytplayer\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\magnific-popup
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\magnific-popup\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+04/07/2024  08:23 PM    <DIR>          docs
+04/07/2024  08:23 PM    <DIR>          docs_src
+04/07/2024  08:23 PM    <DIR>          src
+04/07/2024  08:23 PM    <DIR>          test
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          assets
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\dist\assets
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          assets
+04/07/2024  08:23 PM    <DIR>          demos
+04/07/2024  08:23 PM    <DIR>          docs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          css
+04/07/2024  08:23 PM    <DIR>          img
+04/07/2024  08:23 PM    <DIR>          js
+04/07/2024  08:23 PM    <DIR>          owlcarousel
+04/07/2024  08:23 PM    <DIR>          vendors
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\img
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\js
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\owlcarousel
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          assets
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\owlcarousel\assets
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\assets\vendors
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\demos
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs\docs
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          assets
+04/07/2024  08:23 PM    <DIR>          data
+04/07/2024  08:23 PM    <DIR>          helpers
+04/07/2024  08:23 PM    <DIR>          templates
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          css
+04/07/2024  08:23 PM    <DIR>          img
+04/07/2024  08:23 PM    <DIR>          js
+04/07/2024  08:23 PM    <DIR>          scss
+04/07/2024  08:23 PM    <DIR>          vendors
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets\css
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets\img
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets\js
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets\scss
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\assets\vendors
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\data
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\helpers
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          layouts
+04/07/2024  08:23 PM    <DIR>          pages
+04/07/2024  08:23 PM    <DIR>          partials
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates\layouts
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates\pages
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          demos
+04/07/2024  08:23 PM    <DIR>          docs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates\pages\demos
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates\pages\docs
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\docs_src\templates\partials
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\src
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          img
+04/07/2024  08:23 PM    <DIR>          js
+04/07/2024  08:23 PM    <DIR>          scss
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\src\img
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\src\js
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\src\scss
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\test
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          unit
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\owl.carousel\test\unit
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\simple-text-rotator
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\wow
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+04/07/2024  08:23 PM    <DIR>          dist
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\lib\wow\dist
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\assets\scss
+
+04/06/2024  03:20 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\caraw\OneDrive\Documents\PythonProjects\OperationBattleshipFrontend\templates\php
+
+04/07/2024  08:23 PM    <DIR>          .
+04/07/2024  08:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+             320 Dir(s)  405,052,846,080 bytes free
