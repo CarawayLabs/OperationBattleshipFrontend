@@ -15,6 +15,11 @@ async def email_page(request: Request):
     return templates.TemplateResponse("email.html", {"request": request})
 
 
+@app.get("/submit.html", response_class=HTMLResponse)
+async def submit_page(request: Request):
+    return templates.TemplateResponse("submit_resume.html", {"request": request})
+
+
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
