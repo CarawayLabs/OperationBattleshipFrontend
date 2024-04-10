@@ -9,6 +9,13 @@ app = FastAPI()
 # Tell FastAPI where to find the templates
 templates = Jinja2Templates(directory="templates")
 
+
+@app.get("/email", response_class=HTMLResponse)
+async def email_page(request: Request):
+    return templates.TemplateResponse("email.html", {"request": request})
+
+
+
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
