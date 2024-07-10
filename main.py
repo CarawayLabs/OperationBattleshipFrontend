@@ -1,39 +1,28 @@
-from fastapi import FastAPI, Request, Form, File, UploadFile
+from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-import os
 
 app = FastAPI()
 
 # Tell FastAPI where to find the templates
 templates = Jinja2Templates(directory="templates")
 
-
-@app.get("/email", response_class=HTMLResponse)
-async def email_page(request: Request):
-    return templates.TemplateResponse("email.html", {"request": request})
-
-
-@app.get("/submit.html", response_class=HTMLResponse)
-async def submit_page(request: Request):
-    return templates.TemplateResponse("submit_resume.html", {"request": request})
-
-
+# Mount the static directory
+app.mount("/static", StaticFiles(directory="templates/assets"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
-@app.get("/upload", response_class=HTMLResponse)
-async def upload_resume_page(request: Request):
-    return templates.TemplateResponse("upload.html", {"request": request})
+@app.get("/portfolio/{page_name}", response_class=HTMLResponse)
+async def read_portfolio(request: Request, page_name: str):
+    return templates.TemplateResponse(f"portfolio/{page_name}.html", {"request": request})
 
-@app.get("/recommendations", response_class=HTMLResponse)
-async def view_recommendations(request: Request):
-    # You would typically fetch recommendations from the database here
-    return templates.TemplateResponse("recommendations.html", {"request": request})
+@app.get("/sonar.html", response_class=HTMLResponse)
+async def read_sonar(request: Request):
+    return templates.TemplateResponse("sonar.html", {"request": request})
 
-@app.get("/contact", response_class=HTMLResponse)
-async def contact_us(request: Request):
+@app.get("/contact.html", response_class=HTMLResponse)
+async def read_contact(request: Request):
     return templates.TemplateResponse("contact.html", {"request": request})
